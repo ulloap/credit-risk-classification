@@ -12,9 +12,9 @@ We wanted to compare the results by using the original dataset using "LogisticRe
 - 18,655 loans were a true positive, and 100 were a false positive
 - 583 accounts were a true negative, and 36 were false negatives
 
--The balanced model predicted healthy loans 100% of the time, and risky loan 91% of the time, with an accuracy rate of 99%. 
--18,646 loans were a true positive, and 119 were false positives.
--615 accounts were true negatives, and 4 were false negatives
+- The balanced model predicted healthy loans 100% of the time, and risky loan 91% of the time, with an accuracy rate of 99%. 
+- 18,646 loans were a true positive, and 119 were false positives.
+- 615 accounts were true negatives, and 4 were false negatives
 
 ### Summary
 For this specific situation, the second model would be more fitting, as it's more important to predict high-risk loans, and the RandomSampler was more accurate. 
