@@ -1,6 +1,4 @@
-# credit-risk-classification
-
-## Credit Risk Analysis report
+# Credit Risk Analysis report
 
 ## Overview
 The purpose of this project was to use machine learning in order to predict the loans that were considered healthy or risky for loans. The factors that were considered were the size of the loan, interest rate, borrower's income, debt to income ratio, the number of accounts the borrower held, total debt, and deragatory marks against the borrower.
@@ -22,5 +20,5 @@ We wanted to compare the results by using the original dataset using "LogisticRe
 - 18,646 loans were a true positive, and 119 were false positives.
 - 615 accounts were true negatives, and 4 were false negatives
 
-### Summary
+## Summary
 For this specific situation, the second model would be more fitting, as it's more important to predict high-risk loans, and the RandomSampler was more accurate at finding true risky accounts.
