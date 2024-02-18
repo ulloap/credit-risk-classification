@@ -9,8 +9,8 @@ We wanted to compare the results by using the original dataset using "LogisticRe
 
 ### Results
 - The logistic regression model that used the original imbalanced dataset predicted healthy loans 100% of the time, and non-healthy loans with an 89% of the time, with an accuracy of 96%.
-- 18,655 loans were a true positive, and 100 were a false positive
-- 583 accounts were a true negative, and 36 were false negatives
+* 18,655 loans were a true positive, and 100 were a false positive
+* 583 accounts were a true negative, and 36 were false negatives
 
 - The balanced model predicted healthy loans 100% of the time, and risky loan 91% of the time, with an accuracy rate of 99%. 
 - 18,646 loans were a true positive, and 119 were false positives.
